@@ -54,10 +54,6 @@ streamlit run resume_builder.py
 - `resume_builder.py` - Main application file.
 - `README.md` - This file.
 
-## 📷 Preview
-
-> Real-time preview of your resume on the right-hand panel while entering your information.
-
 ## 📦 Output
 
 A downloadable `.pdf` resume file saved locally or through temporary download link.
